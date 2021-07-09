@@ -90,8 +90,8 @@
 		<url>https://github.com/PreibischLab/BigStitcher/issues</url>
 	</issueManagement>
 	<ciManagement>
-		<system>Travis CI</system>
-		<url>https://travis-ci.org/PreibischLab/BigStitcher</url>
+		<system>GitHub Actions</system>
+		<url>https://github.com/PreibischLab/BigStitcher/actions</url>
 	</ciManagement>
 
 	<properties>
